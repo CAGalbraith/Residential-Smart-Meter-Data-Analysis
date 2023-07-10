@@ -12,3 +12,5 @@ Using the Future Energy Associates Taiffscanner API, we will also investigate:
 * Identifying which clusters of consumers would benefit the most from moving to the Agile tariff
 
 Load up the Jupyter Notebook in the `notebooks` directory to follow along.
+
+Inspiration was taken from [this colab tutorial](https://colab.research.google.com/github/bitstoenergy/iclr-tutorial/blob/main/SmartMeterDataAnalytics_Tutorial.ipynb#scrollTo=z4x3x3A8HU_7) hosted by members of ETH Zurich at the ICLR 2023 Climate Change workshop.
