@@ -1,0 +1,3 @@
+meter_identifier,interval_start,interval_end,kWh_per_half_hour
+c44ce1d25180b7a632add6e407e5ebc1a8492ae8,2017-11-20 10:30:00+00:00,2017-11-20 11:00:00+00:00,0.045
+ebd41ebf9d4769b0b1bca695b72ec68e0d2fe00e,2017-11-20 12:30:00+00:00,2017-11-20 13:00:00+00:00,0.11
